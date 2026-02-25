@@ -1,0 +1,19 @@
+{
+  "name": "trac",
+  "version": "1.0.0",
+  "main": "consensus.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.6.2",
+    "sqlite3": "^5.1.7"
+  }
+}
